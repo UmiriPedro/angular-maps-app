@@ -1,0 +1,2 @@
+import{A as m,g as u,k as a,n as i,o as r,r as l,x as c,z as s}from"./chunk-BSNRUTYB.js";var b=(()=>{let e=class e{constructor(){this.counter=10}};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=u({type:e,selectors:[["counter-alone"]],inputs:{counter:"counter"},standalone:!0,features:[m],decls:4,vars:1,consts:[[1,"btn","btn-primary",3,"click"]],template:function(t,o){t&1&&(i(0,"h1"),c(1),r(),i(2,"button",0),l("click",function(){return o.counter=o.counter+1}),c(3,` +1
+`),r()),t&2&&(a(),s("Counter ",o.counter,""))}});let n=e;return n})();export{b as a};
